@@ -1,4 +1,4 @@
-# ddosnet
+# Pek - python layer-7 flood (ddos)
 Python Urllib flood layer-7
 
 python pek.py
