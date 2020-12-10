@@ -1,7 +1,7 @@
 # Pek - python layer-7 flood (ddos)
 Python Urllib flood layer-7
 
-python pek.py
+python pek.py<br>
 url: вводим сюда url атакуемого.<br>
 http proxy: вводим сюда http прокси в формате (ip:port)<br>
 Thread: кол-во потоков, для лучшей работы 500-1000.<br>
